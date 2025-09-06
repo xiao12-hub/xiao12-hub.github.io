@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>项目一 linux网络连接</title>
+      <link href="/2025/08/27/%E9%A1%B9%E7%9B%AE%E4%B8%80Linux%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5-0/"/>
+      <url>/2025/08/27/%E9%A1%B9%E7%9B%AE%E4%B8%80Linux%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5-0/</url>
+      
+        <content type="html"><![CDATA[<p>1、设置服务器端主机名称<br>2、查看操作系统内核版本<br>3、设置网络连接<br>    用nmcli来改<br>    进入该目录<br>    增加<br>    激活<br>    查看</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2025/08/22/hello-world/"/>
       <url>/2025/08/22/hello-world/</url>
@@ -20,31 +33,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>相册集</title>
       <link href="/album/index.html"/>
       <url>/album/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>朋友圈</title>
-      <link href="/fcircle/index.html"/>
-      <url>/fcircle/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -64,9 +55,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -86,6 +77,17 @@
     
     
     <entry>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/json/music.json"/>
       <url>/json/music.json</url>
@@ -97,9 +99,20 @@
     
     
     <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>朋友圈</title>
+      <link href="/fcircle/index.html"/>
+      <url>/fcircle/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
