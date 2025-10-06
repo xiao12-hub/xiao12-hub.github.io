@@ -70,6 +70,17 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>相册集</title>
       <link href="/album/index.html"/>
       <url>/album/index.html</url>
@@ -84,6 +95,17 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>朋友圈</title>
+      <link href="/fcircle/index.html"/>
+      <url>/fcircle/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -114,9 +136,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -128,28 +150,6 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>朋友圈</title>
-      <link href="/fcircle/index.html"/>
-      <url>/fcircle/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
